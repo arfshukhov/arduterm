@@ -10,4 +10,5 @@
 <p>Подключаем датчик температуры и влажности DHT11 согласно схеме на изображении.<img src="https://arduinoplus.ru/wp-content/uploads/2018/04/raspinovka-dht11.jpg.webp" alt="" style="border-style: outset;" width="600" height="476" /></p>
 <p>Смотрим на правое изображение, контакт Dаta подключаем к контакту&nbsp; цифровой пин, у меня это пин 6. Vcc и Ground&nbsp;&mdash; это 5V и GND соответственно.</p>
 <p>Кстати, если данные на дисплее отображаются некорректно, покрутите потенциометр.</p>
+<p>Для работы датчика температуры и влажности DHT11 поднадобится библиотека, скачать ее можно отсюда&nbsp;<a href="https://drive.google.com/file/d/131vhl3eJOa_6Fvbp3SMCez-BnVBkMQFg/view">DHT.h</a>&nbsp;разорхивировать в путь библиотек Arduino IDE. Она может находиться в разных местах в зависимости от версии, поэтому воспользуйтесь гуглом или поищите в файлах.<a href="https://drive.google.com/file/d/131vhl3eJOa_6Fvbp3SMCez-BnVBkMQFg/view"></a></p>
 <p></p>
